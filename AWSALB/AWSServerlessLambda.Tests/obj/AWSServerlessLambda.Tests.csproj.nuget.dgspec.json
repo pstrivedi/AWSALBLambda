@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj": {}
+    "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj": {
+    "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj",
         "projectName": "AWSServerlessLambda.Tests",
-        "projectPath": "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj",
+        "projectPath": "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda.Tests\\AWSServerlessLambda.Tests.csproj",
         "packagesPath": "C:\\Users\\PARTH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda.Tests\\obj\\",
+        "outputPath": "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PARTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj": {
-                "projectPath": "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj"
+              "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj": {
+                "projectPath": "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj": {
+    "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj",
+        "projectUniqueName": "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj",
         "projectName": "AWSServerlessLambda",
-        "projectPath": "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj",
+        "projectPath": "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda\\AWSServerlessLambda.csproj",
         "packagesPath": "C:\\Users\\PARTH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PARTH\\source\\repos\\AWSALBServerlessLambda\\AWSALB\\AWSServerlessLambda\\obj\\",
+        "outputPath": "C:\\Users\\PARTH\\Source\\Repos\\AWSALBLambda\\AWSALB\\AWSServerlessLambda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PARTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
